@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @MRaysa  
+# 👋 Hi, I’m Aysa Siddika Meem
 
 Welcome to my GitHub profile! I'm Mst. Aysa Siddika Meem, a passionate Computer Science and Engineering (CSE) student at Independent University, Bangladesh (IUB), with a minor in Big Data and High-Performance Computing. I’m driven by curiosity, creativity, and a desire to build impactful solutions using technology.  
 
