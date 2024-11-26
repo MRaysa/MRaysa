@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm Mst. Aysa Siddika Meem, a passionate Computer 
 ---
 
 ### 🌟 Projects I’ve worked on:
-1. **শর্টসংকেত: A Vision Transformer-based Bengali Sign Language Interpreter**  
+1. **স্বরসংকেত: A Vision Transformer-based Bengali Sign Language Interpreter**  
    - Developed a web application that translates Bengali Sign Language into text using Vision Transformers and deep learning.  
    - Future plans: integrate HCI components, language translation, and text-to-speech features.  
 
