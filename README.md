@@ -57,7 +57,7 @@ Welcome to my GitHub profile! I'm Mst. Aysa Siddika Meem, a passionate Computer 
 
 ### 📫 How to reach me:
 - **Email**: [aysasiddikameem3141@gmail.com](mailto:aysasiddikameem3141@gmail.com)  
-- **LinkedIn**: [Mst. Aysa Siddika Meem](https://www.linkedin.com/in/mst-aysa-siddika-meem-92771a284)  
+- **LinkedIn**: [Mst. Aysa Siddika Meem]([https://www.linkedin.com/in/mst-aysa-siddika-meem-92771a284](https://www.linkedin.com/in/mst-aysa-siddika-meem/))  
 
 ---
 
