@@ -83,7 +83,8 @@ I’m currently learning **web development** and aiming to be a **great software
 ---
 
 ## 🐍 GitHub Contribution Snake:
-![Snake animation](https://github.com/MRaysa/MRaysa/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/MRaysa/MRaysa/output/github-contribution-grid-snake.svg)
+
 
 ---
 
