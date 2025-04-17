@@ -1,11 +1,11 @@
-# 👋 Hi, I’m Aysa Siddika Meem  
+# 👋 Hi, I'm Aysa Siddika Meem  
 
 Welcome to my GitHub profile! I'm **Mst. Aysa Siddika Meem**, a passionate **Computer Science and Engineering (CSE)** student at **Independent University, Bangladesh (IUB)**, with a minor in **Big Data and High-Performance Computing**.  
-I’m currently learning **web development** and aiming to be a **great software engineer soon**! 🚀  
+I'm currently learning **web development** and aiming to be a **great software engineer soon**! 🚀  
 
 ---
 
-## 👀 I’m interested in:
+## 👀 I'm interested in:
 - 🤖 Robotics, automation, and innovative technologies  
 - 🧠 Machine learning, deep learning, and computer vision  
 - 🚀 Parallel processing and high-performance computing  
@@ -13,7 +13,7 @@ I’m currently learning **web development** and aiming to be a **great software
 
 ---
 
-## 🌟 Projects I’ve worked on:
+## 🌟 Projects I've worked on:
 ### 🔹 **স্বরসংকেত: A Vision Transformer-based Bengali Sign Language Interpreter**
 - Built a **web application** that translates **Bengali Sign Language** into text using **Vision Transformers & Deep Learning**.  
 - **Future plans:** Integrate **HCI**, language translation, and text-to-speech features.  
@@ -35,7 +35,7 @@ I’m currently learning **web development** and aiming to be a **great software
 
 ---
 
-## 🌱 I’m currently learning:
+## 🌱 I'm currently learning:
 - 🔥 **Advanced Machine Learning** techniques and **Vision Transformers**  
 - ⚡ **Threading & Parallel Processing** for AI performance improvements  
 - 🌎 **IoT & Web Development** for real-world applications  
@@ -63,7 +63,7 @@ I’m currently learning **web development** and aiming to be a **great software
 
 ---
 
-## 🎯 I’m looking to collaborate on:
+## 🎯 I'm looking to collaborate on:
 - 🤖 Open-source projects in **Machine Learning & Robotics**  
 - 🚀 Research in **Parallel Computing, AI, and Sustainable Technology**  
 - 🌎 **Web & Software Development** projects requiring innovative problem-solving  
@@ -71,31 +71,41 @@ I’m currently learning **web development** and aiming to be a **great software
 ---
 
 ## 📊 GitHub Stats:
-![MRaysa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MRaysa&show_icons=true&theme=radical)
+<!-- Updated stats with cache refresh and all commits included -->
+![MRaysa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MRaysa&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1800)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MRaysa&layout=compact&theme=radical)  
+<!-- GitHub Activity Graph -->
+[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MRaysa&theme=react-dark&area=true&hide_border=true)](https://github.com/MRaysa)
+
+<!-- Top Languages with more accurate counting -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MRaysa&layout=compact&theme=radical&hide=html,css&langs_count=8&exclude_repo=github-readme-stats,anuraghazra.github.io)
 
 ---
 
 ## 🔥 GitHub Streak Stats:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MRaysa&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=MRaysa&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)
 
 ---
 
 ## 🐍 GitHub Contribution Snake:
-![Snake animation](https://raw.githubusercontent.com/MRaysa/MRaysa/output/github-contribution-grid-snake.svg)
-
+![Snake animation](https://github.com/MRaysa/MRaysa/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
 ## 🏆 GitHub Trophies:
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MRaysa&theme=darkhub)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MRaysa&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&margin-h=15)
+
+---
+
+## 👀 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=MRaysa&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
 
 ---
 
 ## 📫 How to reach me:
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aysasiddikameem3141@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mst-aysa-siddika-meem/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
 
 ---
 
@@ -105,4 +115,4 @@ She/Her
 ---
 
 ## ⚡ Fun fact:
-I love **coding & ice cream** 🍦💻! Whether it's **optimizing AI performance** or **building creative solutions**, I enjoy merging **technology with innovation**! 🚀  
+I love **coding & ice cream** 🍦💻! Whether it's **optimizing AI performance** or **building creative solutions**, I enjoy merging **technology with innovation**! 🚀
