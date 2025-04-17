@@ -87,12 +87,6 @@ I'm currently learning **web development** and aiming to be a **great software e
 
 ---
 
-
----
-
-
----
-
 ## 👀 Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=MRaysa&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
 
