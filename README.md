@@ -87,13 +87,9 @@ I'm currently learning **web development** and aiming to be a **great software e
 
 ---
 
-## 🐍 GitHub Contribution Snake:
-![Snake animation](https://github.com/MRaysa/MRaysa/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
-## 🏆 GitHub Trophies:
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MRaysa&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&margin-h=15)
 
 ---
 
