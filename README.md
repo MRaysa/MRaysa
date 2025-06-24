@@ -93,25 +93,56 @@ When I'm not coding, you’ll probably find me eating **ice cream** 🍦 and exp
 ---
 
 
-## 📊 GitHub Stats:
-<!-- Updated stats with cache refresh and all commits included -->
-![MRaysa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MRaysa&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1800)
+<!-- 🌟 GitHub Stats Section - Optimized & Fixed -->
+<div align="center">
 
-<!-- GitHub Activity Graph -->
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MRaysa&theme=react-dark&area=true&hide_border=true)](https://github.com/MRaysa)
+## 📊 <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" alt="Git"/> GitHub Analytics
+  
+<!-- Dynamic Stats Grid with Cache Busting -->
+<p align="center">
+  <a href="https://github.com/MRaysa">
+    <!-- Main Stats with forced cache refresh -->
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MRaysa&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=00000000&hide_border=true&cache_seconds=86400&random=1" />
+    <!-- Top Languages with proper exclusion -->
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRaysa&layout=compact&theme=radical&bg_color=00000000&hide_border=true&langs_count=6&exclude_repo=github-readme-stats,anuraghazra.github.io" />
+  </a>
+</p>
 
-<!-- Top Languages with more accurate counting -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MRaysa&layout=compact&theme=radical&hide=html,css&langs_count=8&exclude_repo=github-readme-stats,anuraghazra.github.io)
+<!-- Streak Stats with Dual Source Fallback -->
+<p align="center">
+  <a href="https://github.com/MRaysa">
+    <img src="https://streak-stats.demolab.com?user=MRaysa&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&background=00000000&fire=FF6F00&ring=0ABAB5&currStreakLabel=0ABAB5&cache_seconds=86400"
+         onerror="this.onerror=null;this.src='https://github-readme-streak-stats.herokuapp.com?user=MRaysa&theme=radical&hide_border=true&background=00000000';" 
+         alt="GitHub Streak" />
+  </a>
+</p>
 
----
+<!-- Activity Graph with Fallback -->
+<p align="center">
+  <a href="https://github.com/MRaysa">
+    <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=MRaysa&theme=react-dark&bg_color=00000000&hide_border=true&color=0ABAB5&line=FF6F00&point=FFFFFF&cache_seconds=86400" 
+         onerror="this.onerror=null;this.src='https://activity-graph.herokuapp.com/graph?username=MRaysa&theme=react-dark&bg_color=00000000&hide_border=true';" 
+         alt="Activity Graph" />
+  </a>
+</p>
 
-## 🔥 GitHub Streak Stats:
-![GitHub Streak](https://streak-stats.demolab.com?user=MRaysa&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)
+<!-- Trophy Case with Error Handling -->
+<p align="center"> 
+  <a href="https://github.com/MRaysa">
+    <img width="90%" src="https://github-profile-trophy.vercel.app/?username=MRaysa&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=4&cache_seconds=86400" 
+         onerror="this.onerror=null;this.src='https://github-profile-trophy.vercel.app/?username=MRaysa&theme=radical&no-frame=true&column=3';" 
+         alt="Trophies" />
+  </a>
+</p>
 
----
+<!-- Profile Views Counter with Fallback -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MRaysa&label=Profile+Views&color=0ABAB5&style=flat" 
+       onerror="this.onerror=null;this.src='https://visitor-badge.glitch.me/badge?page_id=MRaysa.MRaysa';" 
+       alt="Profile Views" /> 
+</p>
 
-## 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=MRaysa&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
+</div>
 
 ---
 
