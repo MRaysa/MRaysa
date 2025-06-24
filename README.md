@@ -1,44 +1,66 @@
-# 👋 Hi, I'm Aysa Siddika Meem  
+#👋 Hello there, I'm Mst. Aysa Siddika Meem  
 
 Welcome to my GitHub profile! I'm **Mst. Aysa Siddika Meem**, a passionate **Computer Science and Engineering (CSE)** student at **Independent University, Bangladesh (IUB)**, with a minor in **Big Data and High-Performance Computing**.  
 I'm currently learning **web development** and aiming to be a **great software engineer soon**! 🚀  
 
 ---
 
-## 👀 I'm interested in:
-- 🤖 Robotics, automation, and innovative technologies  
-- 🧠 Machine learning, deep learning, and computer vision  
-- 🚀 Parallel processing and high-performance computing  
-- 🌱 Sustainable solutions, aquaponics, and environmental monitoring  
+## 👩‍💻 About Me
+
+I enjoy solving real-world problems through technology — whether it’s building a smart gardening platform, optimizing AI workflows, or creating accessible web tools.  
+I’m also part of **FabSat’s CanSat projects**, where I contribute as a **programmer, content writer, and video editor**.
+
+When I'm not coding, you’ll probably find me eating **ice cream** 🍦 and exploring new ideas in **AI, sustainability, or human-computer interaction**!
 
 ---
 
-## 🌟 Projects I've worked on:
-### 🔹 **স্বরসংকেত: A Vision Transformer-based Bengali Sign Language Interpreter**
-- Built a **web application** that translates **Bengali Sign Language** into text using **Vision Transformers & Deep Learning**.  
-- **Future plans:** Integrate **HCI**, language translation, and text-to-speech features.  
-
-### 🔹 **Comprehensive Heart Health Monitoring System (CHHMS)**
-- Developed a system to **monitor heart metrics** using **IoT & sensors** for real-time health tracking.  
-
-### 🔹 **Leveraging Parallel Processing for Brain Tumor Detection**
-- Optimized **MRI-based tumor detection** using **multi-threading** for faster **preprocessing and CNN performance**.  
-
-### 🔹 **Aquaponics Management System**
-- Integrated **sensors & IoT** to monitor **water quality, nutrient levels, and environmental factors**.  
-
-### 🔹 **FabSat CanSat Projects**
-- Contributed as a **programmer, content writer, and video editor** for space tech & satellite projects.  
-
-### 🔹 **Movie Production House Website**
-- Built a **full-fledged website using Java** to manage and showcase movie production workflows.  
+## 👀 Areas of Interest
+- 🤖 Robotics, automation & embedded systems  
+- 🧠 Machine learning, deep learning & computer vision  
+- 🚀 Parallel processing & high-performance computing  
+- 🌱 IoT, aquaponics & smart environmental systems  
+- 🌐 Full-stack web development & UI/UX  
 
 ---
 
-## 🌱 I'm currently learning:
-- 🔥 **Advanced Machine Learning** techniques and **Vision Transformers**  
-- ⚡ **Threading & Parallel Processing** for AI performance improvements  
-- 🌎 **IoT & Web Development** for real-world applications  
+## 🌟 Notable Projects
+
+### 🔹 **📚 BookVerse – Library Management System**  
+- Built a full-stack app to manage books using **React, Tailwind CSS, Express.js**, and **MongoDB (without Mongoose)**.  
+- Features: **authentication**, **CRUD operations**, **protected routes**, and JWT-based access.
+
+### 🔹 **🌤️ Real-Time Weather App**  
+- Developed a responsive **React** web app using a live weather API.  
+- Supports location-based search, dynamic UI, and forecast data display.
+
+### 🔹 **🌿 Gardening Tips App**  
+- Designed a full-stack solution to post, manage, and browse **gardening tips**.  
+- Includes sections like **Seasonal Planting Guide** and **Plant Doctor** for diagnosis and planning.
+
+### 🔹 **♻️ Smart Waste Management & Recycling Platform** *(Research)*  
+- Developing an AI-powered IoT system for smart waste bin tracking, community recycling, and efficient resource use.  
+- Currently authoring a research paper on the system design and implementation.
+
+### 🔹 **স্বরসংকেত: Vision Transformer-Based Bengali Sign Language Interpreter**  *(Research)*  
+- Built a **web app** that converts **Bengali Sign Language** to text using deep learning and **Vision Transformers**.  
+- Future plans: **HCI**, multilingual support & **text-to-speech** integration.
+
+### 🔹 **Comprehensive Heart Health Monitoring System (CHHMS)**  
+- Developed a real-time health monitoring system using **IoT sensors** to track ECG, heart rate, and BP.
+
+### 🔹 **Parallel Processing for Brain Tumor Detection**  
+- Implemented **multithreading** to accelerate CNN-based **MRI tumor analysis**, improving preprocessing time & accuracy.
+
+### 🔹 **Aquaponics Monitoring System**  
+- Built a sensor-integrated IoT setup for managing **water quality**, **nutrients**, and environmental data in aquaponics farms.
+
+---
+
+## 🌱 Currently Exploring
+- 🌐 Full-stack development with **React**, **Node.js**, and **MongoDB**  
+- ⚡ Parallel programming with **OpenMP/Threads** for model acceleration  
+- 🤖 Advanced machine learning models & **Vision Transformers**  
+- 📡 Real-time systems with **IoT, sensors, and automation**
 
 ---
 
@@ -63,12 +85,13 @@ I'm currently learning **web development** and aiming to be a **great software e
 
 ---
 
-## 🎯 I'm looking to collaborate on:
-- 🤖 Open-source projects in **Machine Learning & Robotics**  
-- 🚀 Research in **Parallel Computing, AI, and Sustainable Technology**  
-- 🌎 **Web & Software Development** projects requiring innovative problem-solving  
+## 🤝 I’m Open to Collaborating On
+- 🔍 Research in **AI, parallel computing, or sustainable technology**  
+- 🌐 Web & software development projects with real-world impact  
+- 🤖 Open-source projects in **ML, robotics, or smart systems**
 
 ---
+
 
 ## 📊 GitHub Stats:
 <!-- Updated stats with cache refresh and all commits included -->
