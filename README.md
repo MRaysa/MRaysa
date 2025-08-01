@@ -27,9 +27,11 @@ When I'm not coding, you’ll probably find me eating **ice cream** 🍦 and exp
 
 ### 🔹 **📰 ChronicleInk – FullStack News Platform**
 
-A modern news publishing platform with **React, Vite, Firebase**, and **Node.js**. Features include **authentication**, **premium subscriptions**, **admin dashboard**, and **article management**, with a responsive UI and light/dark mode.
-
-🔗 [Live Site](https://chronicle-ink-full-stack-news-platf.vercel.app/) | 💻 [GitHub Repo](https://github.com/MRaysa/ChronicleInk-FullStack-News-Platform)
+- A full-featured news platform built with **React**, **Vite**, **Firebase**, **Node.js**, and **MongoDB**
+- Supports **authentication**, **premium subscriptions**, **article management**, and an **admin dashboard**
+- Includes **responsive design**, **light/dark mode**, and **Google Charts** for analytics
+- 📍 **Live Site:** [chronicle-ink-full-stack-news-platf.vercel.app](https://chronicle-ink-full-stack-news-platf.vercel.app/)
+- 💻 **GitHub Repo:** [MRaysa/ChronicleInk-FullStack-News-Platform](https://github.com/MRaysa/ChronicleInk-FullStack-News-Platform)
 
 
 ### 🔹 **📚 BookVerse – Library Management System**  
