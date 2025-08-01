@@ -25,6 +25,13 @@ When I'm not coding, you’ll probably find me eating **ice cream** 🍦 and exp
 
 ## 🌟 Notable Projects
 
+### 🔹 **📰 ChronicleInk – FullStack News Platform**
+
+A modern news publishing platform with **React, Vite, Firebase**, and **Node.js**. Features include **authentication**, **premium subscriptions**, **admin dashboard**, and **article management**, with a responsive UI and light/dark mode.
+
+🔗 [Live Site](https://chronicle-ink-full-stack-news-platf.vercel.app/) | 💻 [GitHub Repo](https://github.com/MRaysa/ChronicleInk-FullStack-News-Platform)
+
+
 ### 🔹 **📚 BookVerse – Library Management System**  
 - Built a full-stack app to manage books using **React, Tailwind CSS, Express.js**, and **MongoDB (without Mongoose)**.  
 - Features: **authentication**, **CRUD operations**, **protected routes**, and JWT-based access.
