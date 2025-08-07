@@ -1,3 +1,5 @@
+<img src="https://github.com/MRaysa/MRaysa/blob/main/Cover%20Image.png" alt="Cover Image" style="width:100%; border-radius:10px;" />
+
 # 👋 Hello there, I'm Mst. Aysa Siddika Meem
 
 Welcome to my GitHub profile! I'm **Mst. Aysa Siddika Meem**, a passionate **Computer Science and Engineering (CSE)** student at **Independent University, Bangladesh (IUB)**, with a minor in **Big Data and High-Performance Computing**.  
