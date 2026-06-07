@@ -1,18 +1,17 @@
-<img src="https://github.com/MRaysa/MRaysa/blob/main/Cover%20Image.png" alt="Cover Image" style="width:100%; border-radius:10px;" />
+<img src="aysa-siddika-meem.png" alt="Cover Image" style="width:100%; border-radius:10px;" />
 
 # 👋 Hello there, I'm Mst. Aysa Siddika Meem
 
-Welcome to my GitHub profile! I'm **Mst. Aysa Siddika Meem**, a passionate **Computer Science and Engineering (CSE)** student at **Independent University, Bangladesh (IUB)**, with a minor in **Big Data and High-Performance Computing**.  
-I'm currently learning **web development** and aiming to be a **great software engineer soon**! 🚀  
+Welcome to my GitHub profile! I'm **Mst. Aysa Siddika Meem**, a passionate **Computer Science and Engineering (CSE)** student at **Independent University, Bangladesh (IUB)**, with a minor in **Big Data and HCI**. I'm currently learning **web development** and aiming to be a **great software engineer soon**! 🚀  
 
 ---
 
 ## 👩‍💻 About Me
 
-I enjoy solving real-world problems through technology — whether it’s building a smart gardening platform, optimizing AI workflows, or creating accessible web tools.  
-I’m also part of **FabSat’s CanSat projects**, where I contribute as a **programmer, content writer, and video editor**.
+I enjoy solving real-world problems through technology — whether it's building a smart gardening platform, optimizing AI workflows, or creating accessible web tools.  
+I'm also part of **FabSat's CanSat projects**, where I contribute as a **programmer, content writer, and video editor**.
 
-When I'm not coding, you’ll probably find me eating **ice cream** 🍦 and exploring new ideas in **AI, sustainability, or human-computer interaction**!
+When I'm not coding, you'll probably find me eating **ice cream** 🍦 and exploring new ideas in **AI, sustainability, or human-computer interaction**!
 
 ---
 
@@ -96,7 +95,7 @@ When I'm not coding, you’ll probably find me eating **ice cream** 🍦 and exp
 
 ---
 
-## 🤝 I’m Open to Collaborating On
+## 🤝 I'm Open to Collaborating On
 - 🔍 Research in **AI, parallel computing, or sustainable technology**  
 - 🌐 Web & software development projects with real-world impact  
 - 🤖 Open-source projects in **ML, robotics, or smart systems**
@@ -113,16 +112,16 @@ When I'm not coding, you’ll probably find me eating **ice cream** 🍦 and exp
 <p align="center">
   <a href="https://github.com/MRaysa">
     <!-- Main Stats with forced cache refresh -->
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MRaysa&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=00000000&hide_border=true&cache_seconds=86400&random=1" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MRaysa&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=00000000&hide_border=true&cache_seconds=0" alt="GitHub Stats" />
     <!-- Top Languages with proper exclusion -->
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRaysa&layout=compact&theme=radical&bg_color=00000000&hide_border=true&langs_count=6&exclude_repo=github-readme-stats,anuraghazra.github.io" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRaysa&layout=compact&theme=radical&bg_color=00000000&hide_border=true&langs_count=6&exclude_repo=github-readme-stats&cache_seconds=0" alt="Top Languages" />
   </a>
 </p>
 
 <!-- Streak Stats with Dual Source Fallback -->
 <p align="center">
   <a href="https://github.com/MRaysa">
-    <img src="https://streak-stats.demolab.com?user=MRaysa&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&background=00000000&fire=FF6F00&ring=0ABAB5&currStreakLabel=0ABAB5&cache_seconds=86400"
+    <img src="https://streak-stats.demolab.com?user=MRaysa&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&background=00000000&fire=FF6F00&ring=0ABAB5&currStreakLabel=0ABAB5&cache_seconds=86400" 
          onerror="this.onerror=null;this.src='https://github-readme-streak-stats.herokuapp.com?user=MRaysa&theme=radical&hide_border=true&background=00000000';" 
          alt="GitHub Streak" />
   </a>
