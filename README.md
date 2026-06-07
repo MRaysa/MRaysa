@@ -2,7 +2,11 @@
 
 # 👋 Hello there, I'm Mst. Aysa Siddika Meem
 
-Welcome to my GitHub profile! I'm **Mst. Aysa Siddika Meem**, a passionate **Computer Science and Engineering (CSE)** student at **Independent University, Bangladesh (IUB)**, with a minor in **Big Data and HCI**. I'm currently learning **web development** and aiming to be a **great software engineer soon**! 🚀  
+Welcome to my GitHub profile! I'm a **Software Engineer specializing in Full-Stack Development and AI-powered solutions**. I graduated with a Bachelor's degree in **Computer Science and Engineering** from **Independent University, Bangladesh (IUB)**, with a minor in **Big Data and HCI**.
+
+I am passionate about building **innovative software**, **intelligent applications**, and **research-driven solutions** that create meaningful impact. My interests span **software engineering**, **artificial intelligence**, **machine learning**, **data-driven systems**, and **modern web technologies**.
+
+**"Turning complex problems into elegant, scalable, and intelligent solutions."** 🚀
 
 ---
 
@@ -62,7 +66,7 @@ When I'm not coding, you'll probably find me eating **ice cream** 🍦 and explo
 - Implemented **multithreading** to accelerate CNN-based **MRI tumor analysis**, improving preprocessing time & accuracy.
 
 ### 🔹 **Aquaponics Monitoring System**  
-- Built a sensor-integrated IoT setup for managing **water quality**, **nutrients**, and environmental data in aquaponics farms.
+- Built a sensor-integrated IoT setup for managing **water quality**, **nutrients**, and **environmental data** in aquaponics farms.
 
 ---
 
@@ -114,14 +118,14 @@ When I'm not coding, you'll probably find me eating **ice cream** 🍦 and explo
     <!-- Main Stats with forced cache refresh -->
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MRaysa&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=00000000&hide_border=true&cache_seconds=0" alt="GitHub Stats" />
     <!-- Top Languages with proper exclusion -->
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRaysa&layout=compact&theme=radical&bg_color=00000000&hide_border=true&langs_count=6&exclude_repo=github-readme-stats&cache_seconds=0" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRaysa&layout=compact&theme=radical&bg_color=00000000&hide_border=true&langs_count=6&cache_seconds=0" alt="Top Languages" />
   </a>
 </p>
 
 <!-- Streak Stats with Dual Source Fallback -->
 <p align="center">
   <a href="https://github.com/MRaysa">
-    <img src="https://streak-stats.demolab.com?user=MRaysa&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&background=00000000&fire=FF6F00&ring=0ABAB5&currStreakLabel=0ABAB5&cache_seconds=86400" 
+    <img src="https://streak-stats.demolab.com?user=MRaysa&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&background=00000000&fire=FF6F00&ring=0ABAB5&currStreakLabel=0ABAB5&cache_seconds=0" 
          onerror="this.onerror=null;this.src='https://github-readme-streak-stats.herokuapp.com?user=MRaysa&theme=radical&hide_border=true&background=00000000';" 
          alt="GitHub Streak" />
   </a>
@@ -130,7 +134,7 @@ When I'm not coding, you'll probably find me eating **ice cream** 🍦 and explo
 <!-- Activity Graph with Fallback -->
 <p align="center">
   <a href="https://github.com/MRaysa">
-    <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=MRaysa&theme=react-dark&bg_color=00000000&hide_border=true&color=0ABAB5&line=FF6F00&point=FFFFFF&cache_seconds=86400" 
+    <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=MRaysa&theme=react-dark&bg_color=00000000&hide_border=true&color=0ABAB5&line=FF6F00&point=FFFFFF&cache_seconds=0" 
          onerror="this.onerror=null;this.src='https://activity-graph.herokuapp.com/graph?username=MRaysa&theme=react-dark&bg_color=00000000&hide_border=true';" 
          alt="Activity Graph" />
   </a>
