@@ -2,7 +2,7 @@
 
 # 👋 Hello there, I'm Mst. Aysa Siddika Meem
 
-Welcome to my GitHub profile! I'm a **Software Engineer specializing in Full-Stack Development and AI-powered solutions**. I graduated with a Bachelor's degree in **Computer Science and Engineering** from **Independent University, Bangladesh (IUB)**, with a minor in **Big Data and HCI**.
+Welcome to my GitHub profile! I'm a **Software Engineer specializing in Full-Stack Development and AI-powered solutions**. I graduated with a Bachelor's degree in **Computer Science and Engineering** from **Independent University, Bangladesh (IUB)**, with a minor in **Big Data and High-Performance Computing.**.
 
 I am passionate about building **innovative software**, **intelligent applications**, and **research-driven solutions** that create meaningful impact. My interests span **software engineering**, **artificial intelligence**, **machine learning**, **data-driven systems**, and **modern web technologies**.
 
